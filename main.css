@@ -3,9 +3,9 @@
  ***************************************************************/
 
 #header, #body, #footer, #toc {
-    border:             2px outset #fff;
+    border:             2px outset #555;
     background-color:   #333;
-    color:              #bbb;
+    color:              green;
     margin:             1em;
     padding:            1em;
 }
@@ -32,8 +32,8 @@ a {
 
 img {
     padding:            2px;
-    border:             2px outset #fff;
-    background-color:   #fff;
+    border:             2px outset #555;
+    background-color:   #555;
     color:              #000;
     height:             8em;
     float:              left;
@@ -43,16 +43,16 @@ img {
 
 pre {
     padding:            1em;
-    border:             2px outset #fff;
+    border:             2px outset #555;
     background-color:   #444;
-    color:              #bbb;
+    color:              green;
     max-width: fit-content;
 }
 
 object {
     padding:            2px;
-    border:             2px outset #fff;
-    background-color:   #fff;
+    border:             2px outset #555;
+    background-color:   #555;
     color:              #000;
     float:              right;
     margin-left:        1em;
