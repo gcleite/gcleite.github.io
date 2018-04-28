@@ -1,0 +1,88 @@
+/***************
+ * cascading style sheet for gcleite, based on taviso
+ ***************************************************************/
+
+#header, #body, #footer, #toc {
+    border:             2px outset #fff;
+    background-color:   #333;
+    color:              #bbb;
+    margin:             1em;
+    padding:            1em;
+}
+
+#footer {
+    text-align:         center;
+}
+
+body { 
+    font-family:        monospace;
+    font-size:          1.2em;
+    background-color:   #222;
+    color:              #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:        monospace;
+    clear:              both;
+}
+
+a { 
+    color: green
+}
+
+img {
+    padding:            2px;
+    border:             2px outset #fff;
+    background-color:   #fff;
+    color:              #000;
+    height:             8em;
+    float:              left;
+    margin-right:        1em;
+    margin-bottom:       3em;
+}
+
+pre {
+    padding:            1em;
+    border:             2px outset #fff;
+    background-color:   #444;
+    color:              #bbb;
+    max-width: fit-content;
+}
+
+object {
+    padding:            2px;
+    border:             2px outset #fff;
+    background-color:   #fff;
+    color:              #000;
+    float:              right;
+    margin-left:        1em;
+    margin-right:       2em;
+}
+
+table {
+    padding:            2px;
+    border-style:       solid;
+    border-color:       #000;
+    border-collapse:    collapse;
+    width:              100%;
+}
+
+td {
+    border:             1px solid #000;
+    text-align:         left;
+}
+
+th {
+    border:             1px solid #000;
+    background-color:   #ccc;
+    color:              #000;
+    text-align:         left;
+}
+
+hr {
+    height:             1px;
+    border:             0px none #000;
+    border-top:         1px solid #000;
+    clear:              both;
+}
+
