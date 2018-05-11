@@ -1,4 +1,4 @@
-Guilherme Leite.
+Welcome to my domain.
 
 %! Target:
 %! Options: --toc --encoding=iso-8859-1
@@ -10,19 +10,19 @@ Guilherme Leite.
 === About ===
 ---------------------------------------------------------------------------
 
-[[img/avatar.png] img/avatar.png]
+[[img/avatar.jpg] img/avatar.jpg]
 
-Meu nome é Guilherme Leite, sou um desenvolvedor de software na [IDwall https://idwall.co] 
-e pesquisador de segurança independente.
-Você pode me acompanhar principalmente através do Twitter em [@guicl https://twitter.com/guicl].
+Hi. I'm a software developer at [IDwall https://idwall.co] and independent security researcher.
+Although I never post, you can follow me on [@guicl https://twitter.com/guicl] or on this 
+highly experimental website.
 
-=== Experience === 
+
+=== Research ===
 ---------------------------------------------------------------------------
 
 TODO
 
-
-=== Research ===
+=== Experience ===
 ---------------------------------------------------------------------------
 
 TODO
@@ -37,7 +37,7 @@ TODO
 === Contact ===
 ---------------------------------------------------------------------------
 
-Você pode me contatar em guilherme@pontosec.com.
-Minha chave [pgp http://en.wikipedia.org/wiki/Pretty_Good_Privacy] está abaixo.
+You can reach me at guilherme@pontosec.com.
+Get my [pgp http://en.wikipedia.org/wiki/Pretty_Good_Privacy] below.
 %!include: ``pgpkey.asc``
 % vim:tw=75
